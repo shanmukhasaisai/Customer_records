@@ -12,7 +12,7 @@ const pool = new Pool({
   user: 'postgres',
   host: 'localhost',
   database: 'Vignesh',
-  password: 'Kamala@123',
+  password: 'enter your password here',
   port: 5432, // Default PostgreSQL port
 });
 // Endpoint to fetch data
